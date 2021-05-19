@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, Welcome to my Github Page 🌱😄  
+### My name is Manuel, I'm a web and mobile developer.
+
+#### 🌱 Languajes and Frameworks 
+<br />
+     📌Kotlin           📌Java
+     📌Javascript
+     📌Dart<br />
+     📌Flutter
+     📌React
+     📌React Native
+     
+#### 📫 How to reach me: ...
+
 
 <!--
 **MarinKodKode/MarinKodKode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
