@@ -1,5 +1,3 @@
-<!-- PROFILE HEADER -->
-![Banner](https://via.placeholder.com/1200x250.png?text=FriendlySnippets+|+AI+%26+Mobile+Development)
 
 # 👋 Hi, I'm **Manuel Alejandro Hernández Marín**  
 **Software Engineer | Senior Mobile Developer (iOS & Android) | AI Enthusiast**  
