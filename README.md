@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm **Manuel Alejandro Hernández Marín**  
+# Hi, I'm **Manuel Alejandro Hernández Marín**  
 **Software Engineer | Senior Mobile Developer (iOS & Android) | AI Enthusiast**  
 🌍 Puebla, Mexico | 📧 mhernandezmarin00@gmail.com  
 
@@ -13,14 +13,14 @@
 
 ---
 
-# 🏆 **About Me**  
-💻 Software Engineer with **6+ years of experience**, specializing in **iOS & Android development** for 3+ years.  
-🎓 Currently pursuing **Master's in AI** (Generative AI & Enterprise Applications).  
-🚀 Passionate about **Mobile Apps**, **AI**, and **Technical Education**.  
+# **About Me**  
+Software Engineer with **6+ years of experience**, specializing in **iOS & Android development** for 3+ years.  
+Currently pursuing **Master's in AI** (Generative AI & Enterprise Applications).  
+Passionate about **Mobile Apps**, **AI**, and **Technical Education**.  
 
 ---
 
-## 🔧 **Tech Stack**
+## **Tech Stack**
 **Mobile:**  
 `Swift` | `SwiftUI` | `UIKit` | `Kotlin` | `Jetpack Compose` | `Flutter` | `Dart`  
 
@@ -34,22 +34,22 @@
 
 ---
 
-## 🎓 **Education**
-🎓 **Master's in Artificial Intelligence** – UNIR (2025)  
-🎓 **Computer Systems Engineering** – TECNM (2022)  
+## **Education**
+**Master's in Artificial Intelligence** – UNIR (2025)  
+**Computer Systems Engineering** – TECNM (2022)  
 
-✅ **Certifications:** Scrum Fundamentals | TOEFL C1  
-
----
-
-# 📚 **Content & Community**
-📺 **[YouTube](#)** – Tutorials on **Mobile Dev & AI**  
-✍ **[FriendlySnippets Blog](#)** – Articles on **AI & Software Architecture**  
-🎤 Speaker at tech events | Mentor for engineers  
+**Certifications:** Scrum Fundamentals | TOEFL C1  
 
 ---
 
-# 📊 **GitHub Stats**
+#**Content & Community**
+**[YouTube](#)** – Tutorials on **Mobile Dev & AI**  
+**[FriendlySnippets Blog](#)** – Articles on **AI & Software Architecture**  
+Speaker at tech events | Mentor for engineers  
+
+---
+
+#**GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)  
