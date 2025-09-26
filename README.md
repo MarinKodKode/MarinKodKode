@@ -1,11 +1,11 @@
 
 # Hi, I'm **Manuel Alejandro Hernández Marín**  
-**Software Engineer | Senior Mobile Developer (iOS & Android) | AI Enthusiast**  
-🌍 Puebla, Mexico | 📧 mhernandezmarin00@gmail.com  
+**Software Engineer | Senior Mobile Developer (iOS & Android)**  
+Puebla, Mexico | 📧 mhernandezmarin00@gmail.com  
 
 ---
 
-## 🌐 **Connect with Me**
+## **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInUsername)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YourGitHubUsername)  
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://youtube.com/YourChannel)  
@@ -46,28 +46,5 @@ Passionate about **Mobile Apps**, **AI**, and **Technical Education**.
 **[YouTube](#)** – Tutorials on **Mobile Dev & AI**  
 **[FriendlySnippets Blog](#)** – Articles on **AI & Software Architecture**  
 Speaker at tech events | Mentor for engineers  
-
----
-
-#**GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night)  
-
----
-
-# 🌍 **Español**
-## 👋 Hola, soy Manuel Alejandro Hernández Marín  
-**Ingeniero en Sistemas | Desarrollador Senior iOS & Android | Apasionado por la IA**  
-
-✔ 6+ años de experiencia en desarrollo de software  
-✔ Especialista en **banca móvil** y arquitecturas escalables  
-✔ Estudiando **Maestría en Inteligencia Artificial**  
-
-✅ **Stack:** Swift, SwiftUI, Kotlin, Jetpack Compose, Flutter, .NET, Python  
-✅ **Pasión:** Arquitectura, IA Generativa, Educación Tecnológica  
-
-📺 **[Canal de YouTube](#)** | ✍ **[Blog Técnico](#)**  
 
 ---
