@@ -32,25 +32,6 @@
 
 ---
 
-# 📌 **Featured Projects**
-### 🔹 **I-Mobile Banking App (Inbursa)**  
-✔ Apple Pay & Google Pay integration  
-✔ Banxico CoDi & DIMO for QR transactions  
-✔ PWA communication and **voice assistant**  
-
-### 🔹 **Cetelem Automotive Credit Apps**  
-✔ Architected **6 apps from scratch** with master-package architecture  
-✔ For brands like **KIA, MG, JAC, Stellantis, Chirey**  
-
-### 🔹 **AVELLEA School Management System**  
-✔ Built using **.NET + MSSQL**, deployed on **Azure**  
-
-### 🔹 **MOCAMBO ERP for Dairy Business**  
-✔ Handles **$1M USD daily operations**  
-✔ Integrated **web + mobile** workflows  
-
-📂 **More projects on my [Portfolio](#) & [GitHub Repositories](#)**  
-
 ---
 
 ## 🎓 **Education**
@@ -90,13 +71,3 @@
 📺 **[Canal de YouTube](#)** | ✍ **[Blog Técnico](#)**  
 
 ---
-
-## 🚀 **Próximos Objetivos**
-- Publicar más contenido educativo sobre **IA y desarrollo móvil**  
-- Contribuir a proyectos **open source**  
-- Expandir **FriendlySnippets** como comunidad de desarrolladores  
-
----
-
-### ✅ **Gracias por visitar mi perfil**
-⭐ **No olvides dar follow si te gusta mi trabajo**  
